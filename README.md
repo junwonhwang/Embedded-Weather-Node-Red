@@ -14,4 +14,4 @@ ___
 ![날씨 노드레드](https://user-images.githubusercontent.com/65066914/174582874-29b224a6-f4f6-45f4-af86-8e0bb312d24a.PNG)
 
 ## 결과 영상
-
+https://www.youtube.com/watch?v=PpHmJO6DvEg
